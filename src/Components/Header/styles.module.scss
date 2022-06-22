@@ -1,0 +1,17 @@
+.headerContainer{
+    background-color:#eeeeee;
+    height: 101px;
+    display: flex;
+    padding: 20px 317px;
+    justify-content: space-between;
+    box-shadow: 0 5px 6px -6px #222;
+    .leftside{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        p{
+            color: #666666;
+            font-size: 13px;
+        }
+    }
+}
